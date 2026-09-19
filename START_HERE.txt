@@ -1,0 +1,29 @@
+AURELYSTUDIO — DIVORCE SYSTEM
+
+1. Extract this ZIP and open index.html in a modern browser.
+2. The initial records are illustrative examples. Open Settings and select
+   "Clear records & start fresh" to create your own workspace.
+3. Use All tools for every section. The seven main menu groups organize
+   case preparation, records, financial planning, parenting and appointments.
+4. Your changes are saved in this browser. No automatic cloud sync.
+   Download JSON backups regularly, especially before changing devices.
+5. Export / Backup includes documents, attachments, notes and preferences.
+   Attachments are limited to 1 MB per file; browser capacity also applies.
+   Keep your original files separately. This storage is not encrypted.
+6. Divorce Summary Report lets you choose sections, dates, A4 or Letter,
+   ink saver, and Print / Save as PDF. PDF destination depends on your browser.
+7. Theme Studio includes colors, interface and heading fonts, five handwriting
+   accents, Night Mode and Extra Calm Mode. The AurelyStudio logo stays fixed.
+8. For app installation and dependable offline use, serve the folder over
+   HTTPS (or localhost), open once online, then choose Settings > Install app.
+   Direct file opening cannot install a PWA. Browser file-origin storage
+   behavior varies; use the same location and keep backups.
+
+Dates and deadlines are entered by you. Confirm legal requirements with your
+court or qualified advisor. This is a personal organization and comparison
+tool, not legal or financial advice. It does not send messages, connect to
+courts/banks or issue background notifications. Holiday rotation is recorded
+as a planning note; future holidays need individual dated entries.
+
+Copyright AurelyStudioCo. Personal-use license; do not resell or redistribute.
+Third-party software and font license notices are included separately.
